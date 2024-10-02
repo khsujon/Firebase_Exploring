@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "379228344132",
+    "project_id": "explorefirebaseep",
+    "storage_bucket": "explorefirebaseep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379228344132:android:1ad199fd5748aa5d181111",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_explore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk3j-X1vGnmKaEs_w3085nGAYGaTo9rDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
